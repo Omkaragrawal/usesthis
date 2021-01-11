@@ -9,7 +9,7 @@ GEM
     mongoose (0.2.5)
     multipart-post (2.0.0)
     oj (2.16.1)
-    redcarpet (3.3.4)
+    redcarpet (3.5.1)
     redis (3.3.0)
     tilt (2.0.5)
 
